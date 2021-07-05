@@ -1,0 +1,8 @@
+{
+  "name": "prepare-app",
+  "template": "Default",
+  "isConfigured": {
+    "client": false,
+    "server": false
+  }
+}
